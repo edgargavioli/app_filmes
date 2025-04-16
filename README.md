@@ -42,7 +42,7 @@ lib/
    ```
 3. Navegue até o diretório do projeto:
    ```bash
-   cd filme-nota-prova
+   cd app_filmes
    ```
 4. Instale as dependências:
    ```bash
